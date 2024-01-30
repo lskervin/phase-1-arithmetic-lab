@@ -5,4 +5,5 @@ const random = 0 + 1
 const num3 = 14
 const num4 = 10
 const mod = num3%num4
-const max = 20
+const list  = [1, 10, 15, 2, 20, 9]
+const max = Math.max(...list)
